@@ -1,1 +1,24 @@
+{
+  "greeting": "Holaa",
+  "name": "Ana Sofía",
+  "greetingText": "Espero que la estés pasando muy bien!!",
+  "wishText": "🎉 Que este día esté lleno de alegría, amor y bendiciones. ¡Disfruta al máximo! 🥳🎂🎁",
+  "imagePath": "img/Ana.jpeg",
+  "text1": "Hoy es tu cumpleaños!!! :D",
+  "textInChatBox": "Es una fecha muy especial !!!",
+  "sendButtonLabel": "Send",
+  "text2": "Es por eso que preparé esta pequeña felicitación para tí",
+  "text3": "Junto con un mensajito",
+  "text4": "Ya que para mi eres una persona muy",
+  "text4Adjective": "Especial",
+  "text5Entry": "Y quería recordarte",
+  "text5Content": "Lo mucho que te quiero",
+  "smiley": ":)",
+  "bigTextPart1": " ",
+  "bigTextPart2": " ",
+  "wishHeading": "Feliz Cumpleaños!",
+  "outroText": " ",
+  "replayText": " ",
+  "outroSmiley": ":)"
+}
 
